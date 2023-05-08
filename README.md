@@ -1,0 +1,3 @@
+-  Welcome to my Github profile! 👋
+- 👀 I’m interested in Blockchain,AWS,Ruby
+- 🌱 I’m currently learning Machine learning
